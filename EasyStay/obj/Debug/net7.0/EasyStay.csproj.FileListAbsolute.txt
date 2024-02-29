@@ -1,0 +1,113 @@
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/appsettings.Development.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/appsettings.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/EasyStay
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/EasyStay.deps.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/EasyStay.runtimeconfig.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/EasyStay.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/EasyStay.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Neo4j.Driver.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.csproj.AssemblyReference.cache
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.AssemblyInfoInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.AssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.csproj.CoreCompileInputs.cache
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.MvcApplicationPartsAssemblyInfo.cs
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.MvcApplicationPartsAssemblyInfo.cache
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets/msbuild.EasyStay.Microsoft.AspNetCore.StaticWebAssets.props
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets/msbuild.build.EasyStay.props
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.EasyStay.props
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.EasyStay.props
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets.pack.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets.build.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/staticwebassets.development.json
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/scopedcss/bundle/EasyStay.styles.css
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.csproj.CopyComplete
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/refint/EasyStay.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.pdb
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/EasyStay.genruntimeconfig.cache
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/obj/Debug/net7.0/ref/EasyStay.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/BCrypt.Net-Next.dll
+/home/andrej/Desktop/Faks/NapredneBaze/Neo4jProj/20.1./EasyStay/EasyStay/bin/Debug/net7.0/System.Security.Permissions.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\appsettings.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\EasyStay.exe
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\EasyStay.deps.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\EasyStay.runtimeconfig.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\EasyStay.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\EasyStay.pdb
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Neo4j.Driver.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.AssemblyInfoInputs.cache
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.AssemblyInfo.cs
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.sourcelink.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.EasyStay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.build.EasyStay.props
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EasyStay.props
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EasyStay.props
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\scopedcss\bundle\EasyStay.styles.css
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.csproj.CopyComplete
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\refint\EasyStay.dll
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.pdb
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\EasyStay.genruntimeconfig.cache
+C:\Users\Djole\Desktop\Sedmi semestar\Napredne baze\Projekti\Projekat2\easystay\EasyStay\obj\Debug\net7.0\ref\EasyStay.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\appsettings.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\EasyStay.exe
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\EasyStay.deps.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\EasyStay.runtimeconfig.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\EasyStay.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\EasyStay.pdb
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Neo4j.Driver.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.csproj.AssemblyReference.cache
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.AssemblyInfoInputs.cache
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.AssemblyInfo.cs
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.csproj.CoreCompileInputs.cache
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.sourcelink.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.EasyStay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.build.EasyStay.props
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EasyStay.props
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EasyStay.props
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\scopedcss\bundle\EasyStay.styles.css
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.csproj.CopyComplete
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\refint\EasyStay.dll
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.pdb
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\EasyStay.genruntimeconfig.cache
+C:\Users\Djole\Desktop\New folder (2)\easystay\EasyStay\obj\Debug\net7.0\ref\EasyStay.dll
