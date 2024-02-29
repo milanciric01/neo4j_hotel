@@ -1,29 +1,5 @@
-# README #
+Platfroma koja za cilj ima da razvije sistem za optimizaciju rasporeda soba i usluga u hotelu. Sistem će omogućiti hotelima
+da efikasnije upravljaju svojim resursima, poboljšavajući iskustvo gostiju i maksimizirajući iskorišćenost kapaciteta
+Tehnologija koja se koristi je Neo4J
 
-This README would normally document whatever steps are necessary to get your application up and running.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
